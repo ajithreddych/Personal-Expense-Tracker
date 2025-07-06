@@ -1,0 +1,27 @@
+[
+    {
+        "amount": 1000.0,
+        "category": "Food",
+        "date": "2025-06-26"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Food",
+        "date": "2025-06-26"
+    },
+    {
+        "amount": 2000.0,
+        "category": "Transport",
+        "date": "2005-11-10"
+    },
+    {
+        "amount": 20200.0,
+        "category": "Entertainment",
+        "date": "2020-11-12"
+    },
+    {
+        "amount": 100.0,
+        "category": "E",
+        "date": "2025-06-26"
+    }
+]
